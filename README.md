@@ -1,3 +1,3 @@
 # Snake-game
 
-The old and classic Snake Game made with Javascript,CSS and HTML. Enjoy it!!!
+El clasico juego de la serpiente que existia en celulares viejos creado con Html, Css y javascript.
